@@ -1,0 +1,1 @@
+document.getElementById('clickmebutton').addEventListener('click', () => alert('Why did you do that? You know it does nothing.'))
